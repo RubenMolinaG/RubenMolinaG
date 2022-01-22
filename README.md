@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**RubenMolinaG/RubenMolinaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rubén from Madrid, Spain.
+```java
+public class AboutMe {
+  public static void main(String[] args){
+    final String ME = "Rubén Molina Galache";
+    String[] LANGUAGES = {"Java", "Python", "JavaScript", "Bash"};
+    String[] FRAMEWORKS = {"Django", "Flask", "Android Studio"};
+  }
+}
+```
 
-Here are some ideas to get you started:
+If you ever want to support the Hub you can make a donation at:
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rubenmolinag)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
