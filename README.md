@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rubén from Madrid 🇪🇸.
+I'm Rubén from Madrid 🇪🇸
 ```java
 public class AboutMe {
   public static void main(String[] args){
