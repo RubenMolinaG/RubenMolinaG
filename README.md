@@ -14,7 +14,4 @@ public class AboutMe {
 }
 ```
 
-If you ever want to support the Hub you can make a donation at:
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rubenmolinag)
 
